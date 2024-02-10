@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayantan Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayu1803&label=Profile%20views&color=0e75b6&style=flat" alt="sayu1803" /> </p>
 
