@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayantan Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="center" width="300">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</div>
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=sayu1803&label=Profile%20views&color=0e75b6&style=flat" alt="sayu1803" /> </p>
 
