@@ -49,12 +49,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
 </p>
 </p>
-<br>
-
-![Sayantan's GitHub stats](https://github-readme-stats-sayu1803.vercel.app/api?username=sayu1803&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
-<br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayu1803&show_icons=true&locale=en" alt="sayu1803" /></p>
 
