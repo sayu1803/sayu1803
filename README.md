@@ -48,6 +48,11 @@
 <p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
 </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sayu1803&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sayu1803&icon=0&color=9)](https://visitcount.itsvg.in)
 </p>
 
 
