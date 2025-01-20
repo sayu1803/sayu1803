@@ -7,6 +7,7 @@
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=sayu1803&label=Profile%20views&color=0e75b6&style=flat" alt="sayu1803" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayu1803" alt="sayu1803" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayu1803&show_icons=true&locale=en&layout=compact" alt="sayu1803" /></p>
 
 
 <h3 align="center">Connect with me:)</h3>
